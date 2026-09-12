@@ -53,10 +53,10 @@ Each project folder contains:
 > ✅ = completed &nbsp;|&nbsp; ⬜ = not started yet. Each title links directly to its project folder.
 
 ### Phase 01 — Google Earth Engine Fundamentals (1–10)
-- ⬜ [01. GEE Environment Setup](phase-01-gee-fundamentals/project-01-setup)
+- ✅ [01. GEE Environment Setup](phase-01-gee-fundamentals/project-01-setup)
 - ⬜ [02. Working with Image & ImageCollection](phase-01-gee-fundamentals/project-02-image-collections)
 - ⬜ [03. Cloud-free Composites](phase-01-gee-fundamentals/project-03-composites)
-- ✅ [04. Basic Spectral Indices (NDVI/NDWI/NDBI)](phase-01-gee-fundamentals/project-04-spectral-indices)
+- ⬜ [04. Basic Spectral Indices (NDVI/NDWI/NDBI)](phase-01-gee-fundamentals/project-04-spectral-indices)
 - ⬜ [05. Reducers & Zonal Statistics](phase-01-gee-fundamentals/project-05-zonal-statistics)
 - ⬜ [06. Exporting Data from GEE](phase-01-gee-fundamentals/project-06-export-data)
 - ⬜ [07. Automation with the Python API](phase-01-gee-fundamentals/project-07-python-automation)
@@ -65,7 +65,7 @@ Each project folder contains:
 - ⬜ [10. Capstone: Basic Basin Monitoring Dashboard](phase-01-gee-fundamentals/project-10-phase1-capstone)
 
 ### Phase 02 — Precipitation, Temperature & Evapotranspiration (11–20)
-- ✅ [11. CHIRPS Mean Precipitation](phase-02-precipitation-et/project-11-chirps-precipitation)
+- ⬜ [11. CHIRPS Mean Precipitation](phase-02-precipitation-et/project-11-chirps-precipitation)
 - ⬜ [12. GPM IMERG vs. Station Data](phase-02-precipitation-et/project-12-gpm-vs-station)
 - ⬜ [13. Land Surface Temperature (LST) Mapping](phase-02-precipitation-et/project-13-lst-mapping)
 - ⬜ [14. Actual Evapotranspiration with MOD16](phase-02-precipitation-et/project-14-mod16-et)
