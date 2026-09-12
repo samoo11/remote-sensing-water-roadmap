@@ -19,3 +19,18 @@ The work follows a **100-project roadmap**, organized into 10 progressive phases
 ---
 
 ## 📁 Repository Structure
+
+```
+phase-01-gee-fundamentals/
+├── project-01-setup/
+├── project-02-image-collections/
+└── .../
+
+phase-02-precipitation-et/
+├── project-11-chirps-precipitation/
+├── project-12-gpm-vs-station/
+└── .../
+
+.../
+
+```
